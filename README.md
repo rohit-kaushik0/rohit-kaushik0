@@ -17,7 +17,7 @@
 
 ### **💻 Skills & Technologies**
 - 🔹 **Languages:** C++, Python, JavaScript  
-- 🔹 **Web Development:** HTML, CSS, JavaScript, React, Flutter  
+- 🔹 **Web Development:** HTML, CSS, JavaScript, React, Node JS , Express ,EJS, Flutter  
 - 🔹 **AI & ML:** CNNs, OpenAI API, Computer Vision  
 - 🔹 **Databases:** MySQL  
 - 🔹 **Tools & Platforms:** GitHub, VS Code, Linux  
@@ -26,20 +26,22 @@
 
 ## 📂 Featured Projects  
 
+### 🎨 **BlogHub**  
+📌 **Description:** A simple Blog Application built using Node.js, Express, and EJS that allows users to create, edit, and view blog posts. 
+🛠 **Tech Stack:** HTML, CSS , Node JS , Express JS , EJS
+🔗 [GitHub Repo](https://github.com/rohit-kaushik0/BlogHub)  
+
 ### 🌦 **Weather Forecasting App (Flutter)**  
 📌 **Description:** A Flutter-based weather app that provides real-time weather updates.  
 🛠 **Tech Stack:** Flutter, Dart, OpenWeather API  
 🔗 [GitHub Repo](https://github.com/your-github-username/weather-app)  
 
-### 🎨 **Language Translation Chatbot**  
-📌 **Description:** AI chatbot that translates languages in real time, integrated with a custom UI.  
-🛠 **Tech Stack:** Python, AI APIs, HTML, CSS  
-🔗 [GitHub Repo](https://github.com/your-github-username/language-translation-chatbot)  
 
-### 📊 **Stock Management System (C++)**  
-📌 **Description:** A stock management system that tracks inventory and sales.  
-🛠 **Tech Stack:** C++, File Handling  
-🔗 [GitHub Repo](https://github.com/your-github-username/stock-management-system)  
+
+### 📊 **GreenSkyHub**  
+📌 **Description:** platform for eco-friendly aviation insights, sustainable travel options, and green aviation technologies!
+🛠 **Tech Stack:** HTML, CSS, JavaScript, 
+🔗 [GitHub Repo](https://github.com/rohit-kaushik0/greenskyhub)  
 
 ---
 
