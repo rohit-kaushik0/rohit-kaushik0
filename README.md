@@ -28,7 +28,8 @@
 
 ### 🎨 **BlogHub**  
 📌 **Description:** A simple Blog Application built using Node.js, Express, and EJS that allows users to create, edit, and view blog posts. 
-🛠 **Tech Stack:** HTML, CSS , Node JS , Express JS , EJS
+🛠 **Tech Stack:** HTML, CSS , Node JS , Express JS , EJS 
+
 🔗 [GitHub Repo](https://github.com/rohit-kaushik0/BlogHub)  
 
 ### 🌦 **Weather Forecasting App (Flutter)**  
