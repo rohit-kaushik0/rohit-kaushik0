@@ -11,7 +11,7 @@
 
 ## 🏆 About Me  
 🎓 **Final-Year Computer Science Student**  
-💼 **Coding Expert at Outliar AI**  
+💼 **Full Stack Developer at Zylentrix**  
 💡 Passionate about **AI, Web Development, and Competitive Programming**  
 🚀 Aspiring to work in **AI/ML & Software Development**  
 
@@ -37,6 +37,11 @@
 ---
 
 ## 📂 Featured Projects  
+
+### 🚀 Personal Portfolio Website  
+📌 A modern, responsive portfolio website built with React, featuring animations, a dark theme, and a clean UI.  
+🛠 Tech Stack: React.js, Framer Motion, CSS3, React Router  
+🔗 [Live Demo](https://rohit-kaushik0.github.io/MyPorfolio/) | [GitHub Repo](https://github.com/rohit-kaushik0/MyPorfolio)  
 
 ### 🎨 **BlogHub**  
 📌 A simple Blog Application built using Node.js, Express, and EJS that allows users to create, edit, and view blog posts.  
