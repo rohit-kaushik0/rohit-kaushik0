@@ -22,7 +22,7 @@
 ### **🚀 Programming Languages:**  
 🔹 C++ | Python | JavaScript  
 
-### **🌐 Web Development:**  
+### **🌐 Frontend Development:**  
 🔹 HTML | CSS | JavaScript | React | Flutter  
 
 ### **🤖 AI & ML:**  
@@ -32,7 +32,7 @@
 🔹 MySQL | Node.js | Express.js | EJS | REST APIs  
 
 ### **🛠 Tools & Platforms:**  
-🔹 GitHub | VS Code | Linux  
+🔹 GitHub | VS Code  
 
 ---
 
