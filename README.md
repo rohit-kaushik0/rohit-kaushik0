@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Rohit Kaushik!</h1>
 <p align="center">
-  🚀 Final-Year CS Student | AI & Web Dev Enthusiast | Competitive Programmer  
+  🚀 Fullstack developer  | AI & Web Dev Enthusiast | Competitive Programmer  
 </p>
 
 <p align="center">
@@ -67,10 +67,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-kaushik0&theme=dracula" />
 </p>
 
-📌 **Top Languages:**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-kaushik0&layout=compact&theme=radical" />
-</p>
 
 📆 **GitHub Streak:**  
 <p align="center">
