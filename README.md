@@ -3,10 +3,10 @@
   🚀 Full-Stack Developer | AI/ML Enthusiast | Flutter Developer | Competitive Programmer  
 </p>
 
-<!-- 🔥 FULL CONTRIBUTION & STATS SECTION -->
+<!-- 🔥 FIXED, WORKING STATS USING STABLE MIRROR -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohit-kaushik0&show_icons=true&count_private=true&include_all_commits=true&theme=radical" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-kaushik0&layout=compact&theme=radical" width="41%"/>
+  <img src="https://github-readme-stats-kappa-sable.vercel.app/api?username=rohit-kaushik0&show_icons=true&count_private=true&include_all_commits=true&theme=radical" width="49%" />
+  <img src="https://github-readme-stats-kappa-sable.vercel.app/api/top-langs/?username=rohit-kaushik0&layout=compact&theme=radical" width="41%" />
 </p>
 
 <p align="center">
