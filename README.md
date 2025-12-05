@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohit-kaushik0&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohit-kaushik-0&show_icons=true&theme=radical" />
 </p>
 
 ---
@@ -12,12 +12,12 @@
 ## 🏆 About Me  
 
 💼 **Tech Lead @ Zylentrix**  
-🎓 **Computer Science Engineering **  
-🧠 Building **AI Agents** for job automation, CV analysis & job application workflows  
+🎓 **Computer Science Engineer**  
+🧠 Building **AI Agents** for job automation, CV analysis & intelligent job application systems  
 📱 Working on **mobile apps, job support platforms, onboarding flows & Flutter applications**  
-🤖 Experience with **CNN (CIFAR-10), ML models, CV, AI APIs, LSTM, RF, XGBoost**  
-💡 Passionate about **AI/ML, Web Dev, Scalable Systems & Automation**  
-🌱 Currently training in **backend leadership, reviewing PRs, deployment & team management**  
+🤖 Experience in **CNN (CIFAR-10), LSTM, Random Forest, XGBoost, ANN & real-world ML systems**  
+⚙️ Skilled in **backend leadership, PR reviews, team management, and deployment pipelines**  
+🌱 Passionate about **AI/ML, Web Development, Scalable Systems & Automation**  
 
 ---
 
@@ -30,110 +30,110 @@
 - Java (Servlets, JSP)
 
 ### 🌐 **Frontend Development**
-- HTML | CSS  
+- HTML, CSS  
 - JavaScript  
-- React.js
-- Next.js
+- React.js  
+- Next.js  
 - Flutter  
 
 ### 🧠 **AI, ML & Deep Learning**
 - CNNs (CIFAR-10)  
 - LSTM, Random Forest, ANN, XGBoost  
+- Computer Vision  
 - OpenAI API, AI Agents  
 - Resume Screening Models  
-- Computer Vision  
 
 ### 🔧 **Backend Development**
 - Node.js  
 - Express.js  
 - REST APIs  
 - EJS  
-- Gradle (Java Projects)
+- Java + Gradle (Java 8+)  
 
 ### 🗄 **Database & Cloud**
 - MySQL  
-- Firebase (Auth + Firestore + Storage)  
+- Firebase (Auth, Firestore, Storage)  
 
 ### 🛠 **Tools**
 - Git & GitHub  
 - VS Code  
 - Postman  
 - Streamlit  
-- WebView integration  
-- Docker basics  
+- Docker (Basics)  
+- WebView Integration  
 
 ---
 
 ## 🚀 Major Projects  
 
-### 🧠 **Internzity (Zylentrix)**  
-It is a UK-registered online global skill academy helping ambitious learners from across the world ,gain practical Experience, job-ready skills through expert-led courses.**.  
-🛠 * Rect , next js ,node js , express*
+### 🧠 **Internzity (Zylentrix)**
+A global online skill academy helping learners gain hands-on experience and job-ready skills.  
+🛠 *React, Next.js, Node.js, Express*  
 🔗 https://www.internzity.com/
 
 ---
 
-### 📱 **Jobzure Mobile App and web (Job Support App)**  
-A client-facing app for international job seekers with CV upload, dashboard, onboarding flow, job tracking & support.  
-🛠 *Flutter, Firebase, Rect , next js ,node js , express*
+### 📱 **Jobzure Mobile & Web App (Job Support App)**  
+A client-facing app for international job seekers offering CV upload, dashboard, onboarding flow, job tracking & support.  
+🛠 *Flutter, Firebase, React, Next.js, Node.js, Express*  
 🔗 https://www.jobzure.com/
 
 ---
 
 ### 🧭 **ExperienZHub**  
-ExperienZHub is a platform for students to learn from industry projects and earn completion certificates to build your skills and portfolio.  
-🛠 * Rect , next js ,node js , express*
+A platform where students work on industry-level projects and earn certificates.  
+🛠 *React, Next.js, Node.js, Express*  
 🔗 https://www.experienzhub.com/
 
 ---
 
 ### 🧭 **Zurelabs**  
-It is our portfolio website for our company ZureLabs which tells our story and our services.  
-🛠 * Rect , next js ,node js , express*
+The portfolio website of our company Zurelabs showcasing services & story.  
+🛠 *React, Next.js, Node.js, Express*  
 🔗 https://www.zurelabs.com/
 
 ---
 
 ### 📈 **Stock Market Price Prediction System**  
-End-to-end ML system using technical indicators (MACD, RSI, BB) with multiple models (LR, RF, XGBoost, LSTM).  
-🛠 *Streamlit, yfinance, Python, ML models*
+End-to-end ML system using indicators (MACD, RSI, BB) powered by LR, RF, XGBoost, LSTM.  
+🛠 *Streamlit, Python, ML Models, yfinance*  
 
 ---
 
 ### ⚡ **Personal Portfolio Website**  
-Animated, modern portfolio built with React & Framer Motion.  
-🔗 https://rohit-kaushik.vercel.app/
-🛠 *React.js, Framer Motion, CSS*
+Modern, animated portfolio with smooth transitions using Framer Motion.  
+🔗 https://rohit-kaushik.vercel.app/  
+🛠 *React.js, Framer Motion, CSS*  
 
 ---
 
 ### 🌦 **Weather App (Flutter)**  
-Real-time weather updates with city search and UI animations.  
-🛠 *Flutter, Dart, OpenWeather API*
+Real-time weather search with clean UI and animations.  
+🛠 *Flutter, Dart, OpenWeather API*  
 
 ---
 
-
 ## 🧩 Additional Experience  
 
-✔ Leading web & backend teams  
-✔ Conducting morning meetings & progress updates  
-✔ Reviewing Git pull requests & resolving merge conflicts  
-✔ Fixing deployment issues & providing team support  
-✔ Security research for Flutter WebView  
-✔ Building large-scale Java applications (Java 8, Gradle ≥ 4)  
-✔ Developed computer vision CNN models for academic projects  
+✔ Leading web & backend development teams  
+✔ Running morning standups & progress updates  
+✔ Reviewing Git PRs & resolving merge conflicts  
+✔ Fixing deployment issues  
+✔ Helping teammates with technical blockers  
+✔ Researching secure Flutter WebView integrations  
+✔ Building large-scale Java apps (Java 8, Gradle 4+)  
+✔ Developed CNN models for academic and personal projects  
 
 ---
 
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-kaushik0&theme=dracula" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-kaushik-0&theme=dracula" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-kaushik0&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-kaushik-0&theme=radical" />
 </p>
 
 ---
@@ -145,4 +145,4 @@ Real-time weather updates with city search and UI animations.
 
 ---
 
-<h3 align="center">🚀 Let's build intelligent systems that make life easier! ✨</h3>
+<h3 align="center">🚀 Let’s build intelligent systems that make life easier! ✨</h3>
