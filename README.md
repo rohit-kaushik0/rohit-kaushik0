@@ -29,39 +29,50 @@
 
 ## 💻 Skills & Technologies  
 
-### 🚀 **Programming Languages**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Programming Languages
 - C++ (CP)
 - Python (AI/ML)
 - JavaScript (Frontend + Backend)
 - Java (Servlets, JSP)
 
-### 🌐 **Frontend Development**
-- HTML, CSS, JavaScript  
-- React.js, Next.js  
-- Flutter  
-
-### 🧠 **AI, ML & Deep Learning**
+### 🧠 AI, ML & Deep Learning
 - CNN (CIFAR-10)
-- LSTM, RF, ANN, XGBoost  
-- OpenAI API, AI Agents  
-- Resume Screening AI  
+- LSTM, RF, ANN, XGBoost
+- OpenAI API, AI Agents
+- Resume Screening AI
 
-### 🔧 **Backend**
-- Node.js  
-- Express.js  
-- REST APIs  
-- Java + Gradle  
+</td>
+<td width="50%" valign="top">
 
-### 🗄 **Database & Cloud**
-- MySQL  
-- Firebase (Auth, Firestore, Storage)  
+### 🌐 Frontend Development
+- HTML, CSS, JavaScript
+- React.js, Next.js
+- Flutter
 
-### 🛠 **Tools**
-- Git & GitHub  
-- Postman  
-- VS Code  
+### 🔧 Backend
+- Node.js
+- Express.js
+- REST APIs
+- Java + Gradle
+
+### 🗄 Database & Cloud
+- MySQL
+- Firebase (Auth, Firestore, Storage)
+
+### 🛠 Tools
+- Git & GitHub
+- Postman
+- VS Code
 - Streamlit  
-- Docker (Basics)  
+- Docker (Basics)
+
+</td>
+</tr>
+</table>
 
 ---
 
