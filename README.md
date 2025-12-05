@@ -26,18 +26,20 @@
 🌱 Passionate about **AI/ML, scalable systems & automation**  
 
 ---
-
 ## 💻 Skills & Technologies  
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🚀 Programming Languages
 - C++ (CP)
 - Python (AI/ML)
 - JavaScript (Frontend + Backend)
 - Java (Servlets, JSP)
+
+</td>
+<td width="33%" valign="top">
 
 ### 🧠 AI, ML & Deep Learning
 - CNN (CIFAR-10)
@@ -46,7 +48,7 @@
 - Resume Screening AI
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🌐 Frontend Development
 - HTML, CSS, JavaScript
