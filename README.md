@@ -54,14 +54,14 @@
 - OpenAI API, AI Agents
 - Resume Screening AI
 
-</td>
-<td width="33%" valign="top">
-
 ### 🌐 Frontend Development
 - HTML, CSS, JavaScript
 - React.js, Next.js
 - Flutter
 
+</td>
+<td width="33%" valign="top">
+  
 ### 🔧 Backend
 - Node.js
 - Express.js
