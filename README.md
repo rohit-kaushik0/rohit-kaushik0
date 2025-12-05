@@ -5,12 +5,12 @@
 
 <!-- 🔥 FIXED, WORKING STATS USING STABLE MIRROR -->
 <p align="center">
-  <img src="https://github-readme-stats-kappa-sable.vercel.app/api?username=rohit-kaushik0&show_icons=true&count_private=true&include_all_commits=true&theme=radical" width="49%" />
-  <img src="https://github-readme-stats-kappa-sable.vercel.app/api/top-langs/?username=rohit-kaushik0&layout=compact&theme=radical" width="41%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohit-kaushik0&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-kaushik0&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohit-kaushik0&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohit-kaushik0&theme=radical" />
 </p>
 
 ---
