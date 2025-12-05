@@ -38,6 +38,13 @@
 - JavaScript (Frontend + Backend)
 - Java (Servlets, JSP)
 
+### 🛠 Tools
+- Git & GitHub
+- Postman
+- VS Code
+- Streamlit  
+- Docker (Basics)
+
 </td>
 <td width="33%" valign="top">
 
@@ -64,13 +71,6 @@
 ### 🗄 Database & Cloud
 - MySQL
 - Firebase (Auth, Firestore, Storage)
-
-### 🛠 Tools
-- Git & GitHub
-- Postman
-- VS Code
-- Streamlit  
-- Docker (Basics)
 
 </td>
 </tr>
