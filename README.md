@@ -1,74 +1,137 @@
 <h1 align="center">👋 Hi, I'm Rohit Kaushik!</h1>
 <p align="center">
-  🚀 Fullstack developer  | AI & Web Dev Enthusiast | Competitive Programmer  
+  🚀 Full-Stack Developer | AI/ML Enthusiast | Flutter Developer | Competitive Programmer  
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohit-kaushik0&show_icons=true&theme=radical" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohit-kaushik0&show_icons=true&theme=radical" width="55%">
 </p>
 
 ---
 
 ## 🏆 About Me  
-🎓 **Final-Year Computer Science Student**  
-💼 **Full Stack Developer at Zylentrix**  
-💡 Passionate about **AI, Web Development, and Competitive Programming**  
-🚀 Aspiring to work in **AI/ML & Software Development**  
+
+💼 **Tech Lead @ Zylentrix**  
+🎓 **Computer Science Engineering **  
+🧠 Building **AI Agents** for job automation, CV analysis & job application workflows  
+📱 Working on **mobile apps, job support platforms, onboarding flows & Flutter applications**  
+🤖 Experience with **CNN (CIFAR-10), ML models, CV, AI APIs, LSTM, RF, XGBoost**  
+💡 Passionate about **AI/ML, Web Dev, Scalable Systems & Automation**  
+🌱 Currently training in **backend leadership, reviewing PRs, deployment & team management**  
 
 ---
 
 ## 💻 Skills & Technologies  
 
-### **🚀 Programming Languages:**  
-🔹 C++ | Python | JavaScript  
+### 🚀 **Programming Languages**
+- C++ (Competitive Programming)
+- Python (AI/ML, CV, Automation)
+- JavaScript (Frontend + Backend)
+- Java (Servlets, JSP)
 
-### **🌐 Frontend Development:**  
-🔹 HTML | CSS | JavaScript | React | Flutter  
+### 🌐 **Frontend Development**
+- HTML | CSS  
+- JavaScript  
+- React.js
+- Next.js
+- Flutter  
 
-### **🤖 AI & ML:**  
-🔹 CNNs | OpenAI API | Computer Vision  
+### 🧠 **AI, ML & Deep Learning**
+- CNNs (CIFAR-10)  
+- LSTM, Random Forest, ANN, XGBoost  
+- OpenAI API, AI Agents  
+- Resume Screening Models  
+- Computer Vision  
 
-### **💾 Databases & Backend:**  
-🔹 MySQL | Node.js | Express.js | EJS | REST APIs  
+### 🔧 **Backend Development**
+- Node.js  
+- Express.js  
+- REST APIs  
+- EJS  
+- Gradle (Java Projects)
 
-### **🛠 Tools & Platforms:**  
-🔹 GitHub | VS Code  
+### 🗄 **Database & Cloud**
+- MySQL  
+- Firebase (Auth + Firestore + Storage)  
+
+### 🛠 **Tools**
+- Git & GitHub  
+- VS Code  
+- Postman  
+- Streamlit  
+- WebView integration  
+- Docker basics  
 
 ---
 
-## 📂 Featured Projects  
+## 🚀 Major Projects  
 
-### 🚀 Personal Portfolio Website  
-📌 A modern, responsive portfolio website built with React, featuring animations, a dark theme, and a clean UI.  
-🛠 Tech Stack: React.js, Framer Motion, CSS3, React Router  
-🔗 [Live Demo](https://rohit-kaushik0.github.io/MyPorfolio/) | [GitHub Repo](https://github.com/rohit-kaushik0/MyPorfolio)  
+### 🧠 **Internzity (Zylentrix)**  
+It is a UK-registered online global skill academy helping ambitious learners from across the world ,gain practical Experience, job-ready skills through expert-led courses.**.  
+🛠 * Rect , next js ,node js , express*
+🔗 https://www.internzity.com/
 
-### 🎨 **BlogHub**  
-📌 A simple Blog Application built using Node.js, Express, and EJS that allows users to create, edit, and view blog posts.  
-🛠 **Tech Stack:** HTML, CSS, Node.js, Express.js, EJS  
-🔗 [GitHub Repo](https://github.com/rohit-kaushik0/BlogHub)  
+---
 
-### 🌦 **Weather Forecasting App (Flutter)**  
-📌 A Flutter-based weather app that provides real-time weather updates.  
-🛠 **Tech Stack:** Flutter, Dart, OpenWeather API  
-🔗 [GitHub Repo](https://github.com/your-github-username/weather-app)  
+### 📱 **Jobzure Mobile App and web (Job Support App)**  
+A client-facing app for international job seekers with CV upload, dashboard, onboarding flow, job tracking & support.  
+🛠 *Flutter, Firebase, Rect , next js ,node js , express*
+🔗 https://www.jobzure.com/
 
-### 📊 **GreenSkyHub**  
-📌 A platform for eco-friendly aviation insights, sustainable travel options, and green aviation technologies!  
-🛠 **Tech Stack:** HTML, CSS, JavaScript  
-🔗 [GitHub Repo](https://github.com/rohit-kaushik0/greenskyhub)  
+---
+
+### 🧭 **ExperienZHub**  
+ExperienZHub is a platform for students to learn from industry projects and earn completion certificates to build your skills and portfolio.  
+🛠 * Rect , next js ,node js , express*
+🔗 https://www.experienzhub.com/
+
+---
+
+### 🧭 **Zurelabs**  
+It is our portfolio website for our company ZureLabs which tells our story and our services.  
+🛠 * Rect , next js ,node js , express*
+🔗 https://www.zurelabs.com/
+
+---
+
+### 📈 **Stock Market Price Prediction System**  
+End-to-end ML system using technical indicators (MACD, RSI, BB) with multiple models (LR, RF, XGBoost, LSTM).  
+🛠 *Streamlit, yfinance, Python, ML models*
+
+---
+
+### ⚡ **Personal Portfolio Website**  
+Animated, modern portfolio built with React & Framer Motion.  
+🔗 https://rohit-kaushik.vercel.app/
+🛠 *React.js, Framer Motion, CSS*
+
+---
+
+### 🌦 **Weather App (Flutter)**  
+Real-time weather updates with city search and UI animations.  
+🛠 *Flutter, Dart, OpenWeather API*
+
+---
+
+
+## 🧩 Additional Experience  
+
+✔ Leading web & backend teams  
+✔ Conducting morning meetings & progress updates  
+✔ Reviewing Git pull requests & resolving merge conflicts  
+✔ Fixing deployment issues & providing team support  
+✔ Security research for Flutter WebView  
+✔ Building large-scale Java applications (Java 8, Gradle ≥ 4)  
+✔ Developed computer vision CNN models for academic projects  
 
 ---
 
 ## 📈 GitHub Stats  
 
-📊 **Activity Graph:**  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-kaushik0&theme=dracula" />
 </p>
 
-
-📆 **GitHub Streak:**  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-kaushik0&theme=radical" />
 </p>
@@ -78,9 +141,8 @@
 ## 📫 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/rohit-hrk-517809231/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?logo=web)](https://rohit-kaushik0.github.io/MyPorfolio/)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/yourhandle)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?logo=web)](https://rohit-kaushik.vercel.app/)  
 
 ---
 
-🚀 **Let's build something amazing together!** 💻✨  
+<h3 align="center">🚀 Let's build intelligent systems that make life easier! ✨</h3>
