@@ -3,8 +3,14 @@
   🚀 Full-Stack Developer | AI/ML Enthusiast | Flutter Developer | Competitive Programmer  
 </p>
 
+<!-- 🔥 FULL CONTRIBUTION & STATS SECTION -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohit-kaushik-0&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohit-kaushik0&show_icons=true&count_private=true&include_all_commits=true&theme=radical" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-kaushik0&layout=compact&theme=radical" width="41%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-kaushik0&theme=radical" />
 </p>
 
 ---
@@ -13,42 +19,38 @@
 
 💼 **Tech Lead @ Zylentrix**  
 🎓 **Computer Science Engineer**  
-🧠 Building **AI Agents** for job automation, CV analysis & intelligent job application systems  
-📱 Working on **mobile apps, job support platforms, onboarding flows & Flutter applications**  
-🤖 Experience in **CNN (CIFAR-10), LSTM, Random Forest, XGBoost, ANN & real-world ML systems**  
-⚙️ Skilled in **backend leadership, PR reviews, team management, and deployment pipelines**  
-🌱 Passionate about **AI/ML, Web Development, Scalable Systems & Automation**  
+🧠 Building **AI Agents** for job automation, CV analysis & application workflows  
+📱 Developing **mobile apps, onboarding flows & job support platforms**  
+🤖 Skilled with **CNNs, ML models, LSTM, RF, XGBoost, ANN**  
+⚙️ Strong in **backend leadership, PR reviews, deployment & team management**  
+🌱 Passionate about **AI/ML, scalable systems & automation**  
 
 ---
 
 ## 💻 Skills & Technologies  
 
 ### 🚀 **Programming Languages**
-- C++ (Competitive Programming)
-- Python (AI/ML, CV, Automation)
+- C++ (CP)
+- Python (AI/ML)
 - JavaScript (Frontend + Backend)
 - Java (Servlets, JSP)
 
 ### 🌐 **Frontend Development**
-- HTML, CSS  
-- JavaScript  
-- React.js  
-- Next.js  
+- HTML, CSS, JavaScript  
+- React.js, Next.js  
 - Flutter  
 
 ### 🧠 **AI, ML & Deep Learning**
-- CNNs (CIFAR-10)  
-- LSTM, Random Forest, ANN, XGBoost  
-- Computer Vision  
+- CNN (CIFAR-10)
+- LSTM, RF, ANN, XGBoost  
 - OpenAI API, AI Agents  
-- Resume Screening Models  
+- Resume Screening AI  
 
-### 🔧 **Backend Development**
+### 🔧 **Backend**
 - Node.js  
 - Express.js  
 - REST APIs  
-- EJS  
-- Java + Gradle (Java 8+)  
+- Java + Gradle  
 
 ### 🗄 **Database & Cloud**
 - MySQL  
@@ -56,84 +58,78 @@
 
 ### 🛠 **Tools**
 - Git & GitHub  
-- VS Code  
 - Postman  
+- VS Code  
 - Streamlit  
 - Docker (Basics)  
-- WebView Integration  
 
 ---
 
 ## 🚀 Major Projects  
 
 ### 🧠 **Internzity (Zylentrix)**
-A global online skill academy helping learners gain hands-on experience and job-ready skills.  
+A global online skill academy for job-ready training.  
 🛠 *React, Next.js, Node.js, Express*  
 🔗 https://www.internzity.com/
 
 ---
 
-### 📱 **Jobzure Mobile & Web App (Job Support App)**  
-A client-facing app for international job seekers offering CV upload, dashboard, onboarding flow, job tracking & support.  
-🛠 *Flutter, Firebase, React, Next.js, Node.js, Express*  
+### 📱 **Jobzure Mobile & Web App**
+Job support app for international job seekers.  
+🛠 *Flutter, Firebase, React, Node.js*  
 🔗 https://www.jobzure.com/
 
 ---
 
-### 🧭 **ExperienZHub**  
-A platform where students work on industry-level projects and earn certificates.  
-🛠 *React, Next.js, Node.js, Express*  
+### 🧭 **ExperienZHub**
+Industry project-based learning platform.  
+🛠 *React, Next.js, Node.js*  
 🔗 https://www.experienzhub.com/
 
 ---
 
-### 🧭 **Zurelabs**  
-The portfolio website of our company Zurelabs showcasing services & story.  
-🛠 *React, Next.js, Node.js, Express*  
+### 🧭 **Zurelabs**
+Portfolio website for Zurelabs.  
+🛠 *React, Next.js, Node.js*  
 🔗 https://www.zurelabs.com/
 
 ---
 
-### 📈 **Stock Market Price Prediction System**  
-End-to-end ML system using indicators (MACD, RSI, BB) powered by LR, RF, XGBoost, LSTM.  
-🛠 *Streamlit, Python, ML Models, yfinance*  
+### 📈 **Stock Market Prediction System**
+ML system using MACD, RSI, BB, RF, LSTM, XGBoost.  
+🛠 *Python, Streamlit, yfinance*  
 
 ---
 
-### ⚡ **Personal Portfolio Website**  
-Modern, animated portfolio with smooth transitions using Framer Motion.  
+### ⚡ **Personal Portfolio**
+Animated portfolio using Framer Motion.  
 🔗 https://rohit-kaushik.vercel.app/  
-🛠 *React.js, Framer Motion, CSS*  
 
 ---
 
-### 🌦 **Weather App (Flutter)**  
-Real-time weather search with clean UI and animations.  
-🛠 *Flutter, Dart, OpenWeather API*  
+### 🌦 **Weather App (Flutter)**
+Real-time weather & animations.  
+🛠 *Flutter, Dart*  
 
 ---
 
 ## 🧩 Additional Experience  
 
-✔ Leading web & backend development teams  
-✔ Running morning standups & progress updates  
-✔ Reviewing Git PRs & resolving merge conflicts  
+✔ Leading web & backend teams  
+✔ Running daily standups & progress updates  
+✔ Reviewing PRs & resolving merge conflicts  
 ✔ Fixing deployment issues  
-✔ Helping teammates with technical blockers  
-✔ Researching secure Flutter WebView integrations  
-✔ Building large-scale Java apps (Java 8, Gradle 4+)  
-✔ Developed CNN models for academic and personal projects  
+✔ Helping teammates with blockers  
+✔ Secure WebView integrations  
+✔ Building Java apps (Java 8 + Gradle)  
+✔ Computer vision CNN projects  
 
 ---
 
-## 📈 GitHub Stats  
+# 📈 Contribution Graph (Bottom Only)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-kaushik-0&theme=dracula" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-kaushik-0&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-kaushik0&theme=dracula" />
 </p>
 
 ---
