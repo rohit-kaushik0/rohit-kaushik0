@@ -135,11 +135,11 @@ Real-time weather & animations.
 ✔ Helping teammates with blockers  
 ✔ Secure WebView integrations  
 ✔ Building Java apps (Java 8 + Gradle)  
-✔ Computer vision CNN projects  
+
 
 ---
 
-# 📈 Contribution Graph (Bottom Only)
+# 📈 Contribution Graph 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-kaushik0&theme=dracula" />
