@@ -1,197 +1,165 @@
-<h1 align="center">👋 Hi, I'm Rohit Kaushik</h1>
+<!-- HERO HEADER -->
+
+<h1 align="center">Hi 👋, I'm Rohit Kaushik</h1>
+
+<h3 align="center">
+AI Systems Engineer • Full Stack Architect • Tech Lead @ Zylentrix
+</h3>
 
 <p align="center">
-🚀 Full Stack Developer | AI/ML Engineer | Flutter Developer | Competitive Programmer
+Building AI Agents, Scalable Platforms & Automation Systems
 </p>
 
 <p align="center">
-Tech Lead @ Zylentrix • Building AI Agents • Automation Systems • Job Platforms
-</p>
-
----
-
-# 👀 Profile Views
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=rohit-kaushik0&label=Profile%20Views&color=blue&style=flat" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-kaushik0&theme=radical" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=F7B801&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;Startup+Founder;Building+AI+Automation+Systems;Tech+Lead+@+Zylentrix" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rohit-kaushik0&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rohit-kaushik0&layout=compact&theme=radical" />
+<img src="https://komarev.com/ghpvc/?username=rohit-kaushik0&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 🌟 About Me
+
+💼 **Tech Lead & Co-Founder @ Zylentrix**
+
+🚀 Building **AI powered job automation platforms**
+
+🧠 Developing **AI agents for CV screening, job applications & automation**
+
+🌍 Creating **global job support platforms**
+
+📱 Building **scalable web & mobile applications**
+
+⚡ Passionate about **AI, distributed systems & startup innovation**
+
+---
+
+# 🚀 Tech Stack
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-kaushik0&theme=dracula" />
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nextjs,nodejs,flutter,firebase,mysql,docker,git,linux" />
+
 </p>
 
 ---
 
-# 🛠 Tech Stack
+# 🧠 AI & Machine Learning
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,react,nextjs,nodejs,express,flutter,firebase,mysql,docker,git,github,vscode" />
-</p>
+✔ CNN Image Classification
+✔ LSTM Time Series Forecasting
+✔ Random Forest Models
+✔ XGBoost Systems
+✔ Artificial Neural Networks
+✔ Resume Screening AI
+✔ AI Job Application Agents
 
----
+Tools:
 
-# 🧠 About Me
-
-💼 **Tech Lead at Zylentrix**
-
-🎓 Computer Science Engineer  
-
-🚀 Building **AI automation systems for job search**
-
-📱 Developing **mobile apps & scalable platforms**
-
-🤖 Experienced with **AI/ML models**
-
-📊 Skilled in **data analysis, ML pipelines & model training**
-
-⚙️ Strong in **backend systems & API development**
-
-🌍 Interested in **AI agents, automation & scalable products**
+Python • TensorFlow • Scikit-Learn • OpenAI API • Streamlit • Pandas
 
 ---
 
-# 🚀 Major Projects
+# 🚀 Startup Projects
 
-## 🧠 Internzity (Zylentrix)
+### 🌍 Internzity
 
-Global online skill academy for job-ready training.
-
-**Tech Stack**
-
-React • Next.js • Node.js • Express
-
-🔗 https://www.internzity.com
+Online skill academy for job-ready developers.
+Tech: React • Next.js • Node.js • Express
+https://www.internzity.com
 
 ---
 
-## 📱 Jobzure Mobile & Web App
+### 📱 Jobzure
 
-Job support platform for international job seekers.
-
-**Tech Stack**
-
-Flutter • Firebase • React • Node.js
-
-🔗 https://www.jobzure.com
+AI powered job support platform for international developers.
+Tech: Flutter • Firebase • React • Node.js
+https://www.jobzure.com
 
 ---
 
-## 🧭 ExperienZHub
+### 🧭 ExperienZHub
 
 Industry project-based learning platform.
-
-**Tech Stack**
-
-React • Next.js • Node.js
-
-🔗 https://www.experienzhub.com
+Tech: React • Next.js • Node.js
+https://www.experienzhub.com
 
 ---
 
-## 🧭 Zurelabs
+### 📊 AI Stock Market Prediction
 
-Company portfolio website.
+Machine learning model predicting stock prices using:
 
-**Tech Stack**
+MACD • RSI • Bollinger Bands
+Random Forest • XGBoost • LSTM
 
-React • Next.js • Node.js
-
-🔗 https://www.zurelabs.com
-
----
-
-## 📈 Stock Market Prediction System
-
-Machine learning system for stock forecasting using technical indicators.
-
-**Models Used**
-
-Random Forest  
-LSTM  
-XGBoost  
-Artificial Neural Networks
-
-**Tech**
-
-Python • Streamlit • yfinance
+Tech: Python • Streamlit • yfinance
 
 ---
 
-## 🌦 Weather App
+# 👨‍💻 Leadership
 
-Real-time weather mobile application.
+Tech Lead @ **Zylentrix**
 
-**Tech**
-
-Flutter • Dart • APIs
-
----
-
-## ⚡ Personal Portfolio
-
-Animated portfolio website.
-
-🔗 https://rohit-kaushik.vercel.app
+✔ Managing full stack teams
+✔ Running daily standups
+✔ Architecture planning
+✔ Code reviews & PR approvals
+✔ Production deployments
+✔ Mentoring engineers
 
 ---
 
-# 🧩 Professional Experience
+# 📈 GitHub Analytics
 
-✔ Leading **web & backend engineering teams**
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohit-kaushik0&theme=radical" />
+</p>
 
-✔ Managing **daily standups and sprint progress**
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-kaushik0&theme=radical"/>
+</p>
 
-✔ Reviewing **pull requests & maintaining code quality**
-
-✔ Solving **deployment and production issues**
-
-✔ Helping team members resolve **technical blockers**
-
-✔ Building **secure WebView integrations**
-
-✔ Developing **Java applications (Java 8 + Gradle)**
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohit-kaushik0&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohit-kaushik0&theme=radical" />
+</p>
 
 ---
 
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/rohit-kaushik0/rohit-kaushik0/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/rohit-kaushik0/rohit-kaushik0/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-# 📫 Connect With Me
+# ⚡ Current Focus
+
+🚀 Building AI Job Automation Agent
+📱 Scaling Jobzure platform
+🤖 Developing Resume Intelligence AI
+📊 Improving ML prediction systems
+
+---
+
+# 🌍 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/rohit-hrk-517809231/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Rohit%20Kaushik-blue?logo=linkedin"/>
 </a>
 
 <a href="https://rohit-kaushik.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-orange?logo=web">
+<img src="https://img.shields.io/badge/Portfolio-Visit-orange?logo=google-chrome"/>
+</a>
+
+<a href="https://github.com/rohit-kaushik0">
+<img src="https://img.shields.io/badge/GitHub-rohit--kaushik0-black?logo=github"/>
 </a>
 
 </p>
@@ -199,5 +167,5 @@ Animated portfolio website.
 ---
 
 <h3 align="center">
-🚀 Let's build intelligent systems that make life easier
+🚀 Building intelligent systems that automate the future
 </h3>
